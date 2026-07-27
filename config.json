@@ -1,0 +1,9 @@
+{
+    "show_tutorial_on_startup": true,
+    "hotkey_dictation": "<ctrl>+<f9>",
+    "hotkey_dictation_alt": "<ctrl>+<shift>+<",
+    "hotkey_read_aloud": "<ctrl>+<f10>",
+    "mic_device_name": "[1] Microphone (USB Condenser Micro",
+    "voice_en": "en-US-JennyNeural",
+    "voice_no": "nb-NO-PernilleNeural"
+}

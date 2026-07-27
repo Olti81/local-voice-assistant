@@ -1,0 +1,13 @@
+faster-whisper
+pyaudio
+numpy
+pynput
+pyperclip
+uiautomation
+customtkinter
+requests
+pystray
+Pillow
+edge-tts
+langdetect
+pygame
